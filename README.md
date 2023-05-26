@@ -4,10 +4,17 @@ This is test application for implimintation new react features
 
 ## Environment
 
-Node JS: 20.2.0
-React: 18.2
-Next JS: 13.4.4
-Typesctipt: 5.0.4
+# Node JS
+20.2.0
+
+# React
+18.2
+
+# Next JS
+13.4.4
+
+# Typesctipt
+5.0.4
 
 ## Access
 
