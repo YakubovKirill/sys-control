@@ -8,7 +8,7 @@ export default function Home() {
           Hello
         </WidthBox>
       </header>
-      <div className="h-[100%] w-[100%] bg-slate-300">Content</div>
+      <div className="h-[100%] w-[100%] bg-slate-300">Content new</div>
       <footer className="h-[70px] w-[100%] bg-slate-600">Footer</footer>
     </main>
   );
